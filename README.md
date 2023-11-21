@@ -8,11 +8,15 @@ Tool for auto login on a website and doing some activities
 
 
 
+
 ### Tutorials:
 
 1. Step: Auto-Login
 
 https://medium.com/@kikigulab/how-to-automate-opening-and-login-to-websites-with-python-6aeaf1f6ae98
+
+https://learn.microsoft.com/de-de/microsoft-edge/webdriver-chromium/?tabs=c-sharp
+
 
 
 2. Step: Click on an button
